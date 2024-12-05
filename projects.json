@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pokedex80934",
+    "name": "Pokedex",
+    "img": "https://picsum.photos/200/300/",
+    "description": "If you choose to use a .json file, be mindful of its limitations and ensure proper error handling during file operations.",
+    "likes": 1,
+    "link": "google.com"
+  },
+  {
+    "id": "recorre-teoti907823",
+    "name": "Recorre Teotihuacán",
+    "description": "If you choose to use a .json file, be mindful of its limitations and ensure proper error handling during file operations.",
+    "likes": 1,
+    "img": "https://picsum.photos/200/300/",
+    "link": "google.com"
+  },
+  {
+    "id": "portafolio12489",
+    "name": "Old Portafolio",
+    "img": "https://picsum.photos/200/300/",
+    "description": "If you choose to use a .json file, be mindful of its limitations and ensure proper error handling during file operations.",
+    "likes": 2,
+    "link": "google.com"
+  }
+]
