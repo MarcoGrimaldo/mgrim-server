@@ -1,26 +1,42 @@
 [
   {
-    "id": "pokedex80934",
-    "name": "Pokedex",
-    "img": "https://picsum.photos/200/300/",
-    "description": "If you choose to use a .json file, be mindful of its limitations and ensure proper error handling during file operations.",
-    "likes": 1,
-    "link": "google.com"
+    "id": "portafolio12489",
+    "name": "Old Portafolio",
+    "img": "https://i.ibb.co/5xfhgW4/Captura-de-pantalla-2024-12-05-a-la-s-6-26-55-p-m.png",
+    "description": "My previous portfolio website, crafted using pure HTML, CSS, and Vanilla JavaScript. 😊",
+    "likes": 4,
+    "link": "https://marcogrimaldo.github.io/portafolio/"
+  },
+  {
+    "id": "griza98734",
+    "name": "GRIZA",
+    "img": "https://i.ibb.co/c3YKrh6/Captura-de-pantalla-2024-12-05-a-la-s-6-27-14-p-m.png",
+    "description": "A small startup initiative focused on creating and selling custom websites for local businesses, built with React to ensure modern and responsive designs.",
+    "likes": 2,
+    "link": "https://griza-corp.vercel.app/"
   },
   {
     "id": "recorre-teoti907823",
     "name": "Recorre Teotihuacán",
-    "description": "If you choose to use a .json file, be mindful of its limitations and ensure proper error handling during file operations.",
+    "description": "A sleek template for a tourism website, built with React and enhanced with modern UI frameworks for a polished and user-friendly experience.",
     "likes": 1,
-    "img": "https://picsum.photos/200/300/",
-    "link": "google.com"
+    "img": "https://marcogrimaldo.github.io/portafolio/images/recorreTeotiReact.jpg",
+    "link": "https://marcogrimaldo.github.io/recorre-teoti/#/"
   },
   {
-    "id": "portafolio12489",
-    "name": "Old Portafolio",
-    "img": "https://picsum.photos/200/300/",
-    "description": "If you choose to use a .json file, be mindful of its limitations and ensure proper error handling during file operations.",
-    "likes": 2,
-    "link": "google.com"
+    "id": "pokedex80934",
+    "name": "Pokedex",
+    "img": "https://marcogrimaldo.github.io/portafolio/images/pokedex.jpg",
+    "description": "A dynamic web application powered by the PokeAPI, allowing users to search for Pokémon, explore detailed information, and even download a PDF with all the data for easy reference.",
+    "likes": 1,
+    "link": "https://marcogrimaldo.github.io/pokemon-pdf/"
+  },
+  {
+    "id": "calaverita01893",
+    "name": "Calaverita",
+    "img": "https://i.ibb.co/8dfjbKf/Captura-de-pantalla-2024-12-05-a-la-s-6-28-10-p-m.png",
+    "description": "A charming CSS art webpage that celebrates Mexican culture with vibrant animations, beautifully capturing the spirit of the Day of the Dead.",
+    "likes": 1,
+    "link": "https://marcogrimaldo.github.io/calaverita/"
   }
 ]
