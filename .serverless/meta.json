@@ -1,0 +1,75 @@
+{
+  "/Users/marcogrimaldo/Documents/mgrim-server/serverless.yml": {
+    "versionFramework": "4.6.2",
+    "servicePath": "/Users/marcogrimaldo/Documents/mgrim-server/serverless.yml",
+    "serviceConfigFileName": "serverless.yml",
+    "service": {
+      "service": "node-backend-service",
+      "provider": {
+        "name": "aws",
+        "runtime": "nodejs14.x",
+        "region": "us-east-1",
+        "stage": "dev",
+        "versionFunctions": true
+      },
+      "functions": {
+        "app": {
+          "handler": "app.handler",
+          "events": [
+            {
+              "http": "ANY /"
+            },
+            {
+              "http": "ANY {proxy+}"
+            }
+          ]
+        }
+      },
+      "package": {
+        "exclude": [
+          "node_modules/**",
+          ".git/**",
+          ".gitignore",
+          "serverless.yml"
+        ]
+      },
+      "licenseKey": "${ssm:/serverless-framework/license-key}"
+    },
+    "provider": {
+      "name": "aws",
+      "runtime": "nodejs14.x",
+      "region": "us-east-1",
+      "stage": "dev",
+      "versionFunctions": true
+    },
+    "dashboard": {
+      "isEnabledForService": false,
+      "requiredAuthentication": true,
+      "orgFeaturesInUse": null,
+      "orgObservabilityIntegrations": null,
+      "serviceAppId": null,
+      "serviceProvider": null,
+      "instanceParameters": null
+    },
+    "error": {
+      "message": "Cannot resolve '${ssm:/serverless-framework/license-key}' variable at 'licenseKey'. No value is available for this variable, and no default value was provided. Please check your variable definitions or provide a default value.",
+      "stack": "Error: Cannot resolve '${ssm:/serverless-framework/license-key}' variable at 'licenseKey'. No value is available for this variable, and no default value was provided. Please check your variable definitions or provide a default value.\n    at _ResolverManager.resolve (file:///Users/marcogrimaldo/.serverless/releases/4.6.2/package/dist/sf-core.js:931:32412)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async #handlePlaceholderNode (file:///Users/marcogrimaldo/.serverless/releases/4.6.2/package/dist/sf-core.js:931:30619)\n    at async file:///Users/marcogrimaldo/.serverless/releases/4.6.2/package/dist/sf-core.js:931:28483\n    at async processNodeAndHandleCompletion (file:///Users/marcogrimaldo/.serverless/releases/4.6.2/package/dist/sf-core.js:931:17199)",
+      "code": "MISSING_VARIABLE_RESULT"
+    },
+    "serviceRawFile": "service: node-backend-service\n\nprovider:\n  name: aws\n  runtime: nodejs14.x    # Or a runtime version you prefer\n  region: us-east-1      # Choose your preferred AWS region\n\nfunctions:\n  app:\n    handler: app.handler  # This should match the exported Lambda handler in app.js\n    events:\n      - http: ANY /\n      - http: 'ANY {proxy+}'\n\npackage:\n  exclude:\n    - node_modules/**\n    - .git/**\n    - .gitignore\n    - serverless.yml\n",
+    "command": [
+      "deploy"
+    ],
+    "options": {},
+    "orgId": "8b9b7465-ebd2-4941-a4de-262974d4710b",
+    "orgName": "mgrimdev",
+    "userId": "ZS8KhWnZBwfnTsZYMV",
+    "userName": "mgrimdev",
+    "serviceProviderAwsAccountId": "976193243462",
+    "serviceProviderAwsCfStackId": null,
+    "serviceProviderAwsCfStackCreated": null,
+    "serviceProviderAwsCfStackUpdated": null,
+    "serviceProviderAwsCfStackStatus": null,
+    "serviceProviderAwsCfStackOutputs": null
+  }
+}
