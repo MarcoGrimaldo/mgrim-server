@@ -111,14 +111,12 @@ app.post("/projects/:id/likes", (req, res) => {
   }
 });
 
-// Start the server
-// For local development, start the server normally.
-// When deployed to Vercel, export the app (Vercel will handle the server setup)
-if (process.env.VERCEL) {
-  module.exports = app;
-} else {
+// Always export the app for Vercel
+module.exports = app;
+
+// For local development, run the server if not deployed on Vercel
+if (!process.env.VERCEL) {
   app.listen(port, () => {
     console.log(`Server is running on http://localhost:${port}`);
   });
 }
-
