@@ -1,132 +1,132 @@
 [
   {
-    "id": "pdt1",
+    "id": 1001,
     "images": ["https://files.grupogarruz.com.mx/images/pdt1.jpeg"],
     "title": "Platos cabeceadores con almohadillas de neopreno incluye 1 par de amohadillas.",
     "description": "Equipo manufacturado bajo norma.",
     "specialty": "concretos"
   },
   {
-    "id": "pdt3",
+    "id": 1002,
     "images": ["https://files.grupogarruz.com.mx/images/pdt2.jpeg"],
     "title": "Cono y pison para absorción de arena.",
     "description": "Equipo manufacturado bajo norma.",
     "specialty": "suelos"
   },
   {
-    "id": "pdt3",
+    "id": 1003,
     "images": ["https://files.grupogarruz.com.mx/images/pdt3.jpeg"],
     "title": "Baño maría electrico con termostato análogo para pastillas marshall a 127v 1000",
     "description": "Baño maría electrico con termostato análogo para pastillas marshall a 127v 1000.",
     "specialty": "asfaltos"
   },
   {
-    "id": "pdt4",
+    "id": 1004,
     "images": ["https://files.grupogarruz.com.mx/images/pdt4.jpeg"],
     "title": "Molde 5*5*5 cm de lámina",
     "description": "Molde 5*5*5 cm de lámina.",
     "specialty": "concretos"
   },
   {
-    "id": "pdt5",
+    "id": 1005,
     "images": ["https://files.grupogarruz.com.mx/images/pdt5.jpeg"],
     "title": "Prensa CBR / VRS manual de 3 velocidades con celda de carga de 5 t e indicador digital, con resolución de 1 kg.",
     "description": "Equipo manufacturado bajo norma.",
     "specialty": "suelos"
   },
   {
-    "id": "pdt6",
+    "id": 1006,
     "images": ["https://files.grupogarruz.com.mx/images/pdt6.jpeg"],
     "title": "Probetas de cristal, acrilico y plástico.",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "specialty": "suministros"
   },
   {
-    "id": "pdt7",
+    "id": 1007,
     "images": ["https://files.grupogarruz.com.mx/images/pdt7.jpeg"],
     "title": "Trompa de elefante.",
     "description": "Equipo manufacturado bajo norma.",
     "specialty": "suelos"
   },
   {
-    "id": "pdt8",
+    "id": 1008,
     "images": ["https://files.grupogarruz.com.mx/images/pdt8.jpeg"],
     "title": "Regla enrrazadora",
     "description": "equipo manufacturado bajo norma.",
     "specialty": "suelos"
   },
   {
-    "id": "pdt9",
+    "id": 1009,
     "images": ["https://files.grupogarruz.com.mx/images/pdt9.jpeg"],
     "title": "Plato y guía para cabecear con mortero para cilindros de 10X20 cm",
     "description": "Equipo manufacturado bajo norma.",
     "specialty": "concretos"
   },
   {
-    "id": "pdt10",
+    "id": 1010,
     "images": ["https://files.grupogarruz.com.mx/images/pdt10.jpeg"],
     "title": "Molde y pison proctor estandar 4\"",
     "description": "Equipo manufacturado bajo norma.",
     "specialty": "suelos"
   },
   {
-    "id": "pdt11",
+    "id": 1011,
     "images": ["https://files.grupogarruz.com.mx/images/pdt11.jpeg"],
     "title": "Molde y pison proctor modificado 6\"",
     "description": "Equipo manufacturado bajo norma.",
     "specialty": "suelos"
   },
   {
-    "id": "pdt12",
+    "id": 1012,
     "images": ["https://files.grupogarruz.com.mx/images/pdt12.jpeg"],
     "title": "Agitador eléctrico para equivalente de arena. Temporizador digital y paro automático. 127v",
     "description": "Agitador eléctrico para equivalente de arena. Temporizador digital y paro automático. 127v",
     "specialty": "suelos"
   },
   {
-    "id": "pdt13",
+    "id": 1013,
     "images": ["https://files.grupogarruz.com.mx/images/pdt13.jpeg"],
     "title": "Ranurador curvo",
     "description": "Equipo manufacturado bajo norma.",
     "specialty": "suelos"
   },
   {
-    "id": "pdt14",
+    "id": 1014,
     "images": ["https://files.grupogarruz.com.mx/images/pdt14.jpeg"],
     "title": "Ranurador plano",
     "description": "Equipo manufacturado bajo norma.",
     "specialty": "suelos"
   },
   {
-    "id": "pdt15",
+    "id": 1015,
     "images": ["https://files.grupogarruz.com.mx/images/pdt15.jpeg"],
     "title": "Tamiz de 8\" de diámetro de diferentres aberturas",
     "description": "Granulometría",
     "specialty": "suelos"
   },
   {
-    "id": "pdt16",
+    "id": 1016,
     "images": ["https://files.grupogarruz.com.mx/images/pdt16.jpeg"],
     "title": "Termometros análogos y digitales",
     "description": "Termometros análogos y digitales",
     "specialty": "suministros"
   },
   {
-    "id": "pdt17",
+    "id": 1017,
     "images": ["https://files.grupogarruz.com.mx/images/pdt17.jpeg"],
     "title": "Basculas y balansas digitales y análogas, diferentes resoluciónes.",
     "description": "Basculas y balansas digitales y análogas, diferentes resoluciónes.",
     "specialty": "suministros"
   },
   {
-    "id": "pdt18",
+    "id": 1018,
     "images": ["https://files.grupogarruz.com.mx/images/pdt18.jpeg"],
     "title": "Manteniminetos",
     "description": "",
     "specialty": "agregados"
   },
   {
-    "id": "pdt19",
+    "id": 1019,
     "images": ["https://files.grupogarruz.com.mx/images/pdt19.jpeg"],
     "title": "Equipo de seguridad e higiene",
     "description": "",

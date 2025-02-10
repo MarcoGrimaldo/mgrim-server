@@ -32,19 +32,19 @@ app.get('/api/products', (req, res) => {
 });
 
 // GET /products/:id endpoint to fetch a single product by id
-app.get('/api/products/:id', (req, res) => {
+app.get("/api/product/:id", (req, res) => {
   // Parse the id from the URL parameters to an integer
   const id = parseInt(req.params.id, 10);
 
   // Search for the product with the given id
-  const product = products.find(p => p.id === id);
+  const product = products.find((p) => p.id === id);
 
   if (product) {
     // Return the product if found
     res.json(product);
   } else {
     // If not found, send a 404 response with an error message
-    res.status(404).json({ error: 'Product not found' });
+    res.status(404).json({ error: "Product not found" });
   }
 });
 
