@@ -12,6 +12,9 @@ app.use(express.json());
 // Enable CORS for all routes
 app.use(cors());
 
+// Serve static files from the public directory
+app.use('/public', express.static(path.join(__dirname, 'public')));
+
 // Path to the projects.json file
 const projectsFilePath = path.join(__dirname, "projects.json");
 
