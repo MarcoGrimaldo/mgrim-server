@@ -1,133 +1,167 @@
 [
   {
     "id": 1001,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt1.jpeg"],
+    "images": [
+      "https://mgrim-server.vercel.app/public/photos/platos-cabeceadores-neopreno.png"
+    ],
     "title": "Platos cabeceadores con almohadillas de neopreno incluye 1 par de amohadillas.",
     "description": "Equipo manufacturado bajo norma.",
     "specialty": "concretos"
   },
   {
     "id": 1002,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt2.jpeg"],
+    "images": [
+      "https://mgrim-server.vercel.app/public/photos/cono-y-piso-para-absorcion-de-arena.png"
+    ],
     "title": "Cono y pison para absorción de arena.",
     "description": "Equipo manufacturado bajo norma.",
     "specialty": "suelos"
   },
   {
     "id": 1003,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt3.jpeg"],
+    "images": [
+      "https://mgrim-server.vercel.app/public/photos/bano-maria-2.png"
+    ],
     "title": "Baño maría electrico con termostato análogo para pastillas marshall a 127v 1000",
     "description": "Baño maría electrico con termostato análogo para pastillas marshall a 127v 1000.",
     "specialty": "asfaltos"
   },
   {
     "id": 1004,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt4.jpeg"],
+    "images": [
+      "https://mgrim-server.vercel.app/public/photos/molde-lamina-5.png"
+    ],
     "title": "Molde 5*5*5 cm de lámina",
     "description": "Molde 5*5*5 cm de lámina.",
     "specialty": "concretos"
   },
   {
     "id": 1005,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt5.jpeg"],
+    "images": ["https://mgrim-server.vercel.app/public/photos/prensa-vrs.png"],
     "title": "Prensa CBR / VRS manual de 3 velocidades con celda de carga de 5 t e indicador digital, con resolución de 1 kg.",
     "description": "Equipo manufacturado bajo norma.",
     "specialty": "suelos"
   },
   {
     "id": 1006,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt6.jpeg"],
+    "images": [
+      "https://mgrim-server.vercel.app/public/photos/probetas-cristal.png"
+    ],
     "title": "Probetas de cristal, acrilico y plástico.",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "specialty": "suministros"
   },
   {
     "id": 1007,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt7.jpeg"],
+    "images": [
+      "https://mgrim-server.vercel.app/public/photos/trompa-de-elefante.png"
+    ],
     "title": "Trompa de elefante.",
     "description": "Equipo manufacturado bajo norma.",
     "specialty": "suelos"
   },
   {
     "id": 1008,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt8.jpeg"],
+    "images": [
+      "https://mgrim-server.vercel.app/public/photos/reglas-enrazadoras.png"
+    ],
     "title": "Regla enrrazadora",
     "description": "equipo manufacturado bajo norma.",
     "specialty": "suelos"
   },
   {
     "id": 1009,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt9.jpeg"],
+    "images": [
+      "https://mgrim-server.vercel.app/public/photos/plato-y-guia-de-10.png"
+    ],
     "title": "Plato y guía para cabecear con mortero para cilindros de 10X20 cm",
     "description": "Equipo manufacturado bajo norma.",
     "specialty": "concretos"
   },
   {
     "id": 1010,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt10.jpeg"],
+    "images": [
+      "https://mgrim-server.vercel.app/public/photos/proctor-y-pison-estandar.png"
+    ],
     "title": "Molde y pison proctor estandar 4\"",
     "description": "Equipo manufacturado bajo norma.",
     "specialty": "suelos"
   },
   {
     "id": 1011,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt11.jpeg"],
+    "images": [
+      "https://mgrim-server.vercel.app/public/photos/proctor-y-pison-modificado.png"
+    ],
     "title": "Molde y pison proctor modificado 6\"",
     "description": "Equipo manufacturado bajo norma.",
     "specialty": "suelos"
   },
   {
     "id": 1012,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt12.jpeg"],
+    "images": [
+      "https://mgrim-server.vercel.app/public/photos/agitador-de-probetas.png"
+    ],
     "title": "Agitador eléctrico para equivalente de arena. Temporizador digital y paro automático. 127v",
     "description": "Agitador eléctrico para equivalente de arena. Temporizador digital y paro automático. 127v",
     "specialty": "suelos"
   },
   {
     "id": 1013,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt13.jpeg"],
+    "images": [
+      "https://mgrim-server.vercel.app/public/photos/ranurador-curvo.png"
+    ],
     "title": "Ranurador curvo",
     "description": "Equipo manufacturado bajo norma.",
     "specialty": "suelos"
   },
   {
     "id": 1014,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt14.jpeg"],
+    "images": [
+      "https://mgrim-server.vercel.app/public/photos/ranurador-plano.png"
+    ],
     "title": "Ranurador plano",
     "description": "Equipo manufacturado bajo norma.",
     "specialty": "suelos"
   },
   {
     "id": 1015,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt15.jpeg"],
+    "images": [
+      "https://mgrim-server.vercel.app/public/photos/tamices-8-y-12.png"
+    ],
     "title": "Tamiz de 8\" de diámetro de diferentres aberturas",
     "description": "Granulometría",
     "specialty": "suelos"
   },
   {
     "id": 1016,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt16.jpeg"],
+    "images": ["https://mgrim-server.vercel.app/public/photos/termometros.png"],
     "title": "Termometros análogos y digitales",
     "description": "Termometros análogos y digitales",
     "specialty": "suministros"
   },
   {
     "id": 1017,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt17.jpeg"],
+    "images": [
+      "https://mgrim-server.vercel.app/public/photos/bascula-digital.jpeg"
+    ],
     "title": "Basculas y balansas digitales y análogas, diferentes resoluciónes.",
     "description": "Basculas y balansas digitales y análogas, diferentes resoluciónes.",
     "specialty": "suministros"
   },
   {
     "id": 1018,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt18.jpeg"],
+    "images": [
+      "https://mgrim-server.vercel.app/public/photos/mantenimiento.png"
+    ],
     "title": "Mantenimientos",
     "description": "",
     "specialty": "agregados"
   },
   {
     "id": 1019,
-    "images": ["https://files.grupogarruz.com.mx/images/pdt19.jpeg"],
+    "images": [
+      "https://mgrim-server.vercel.app/public/photos/equipo-de-seguridad.jpeg"
+    ],
     "title": "Equipo de seguridad e higiene",
     "description": "",
     "specialty": "suministros"
