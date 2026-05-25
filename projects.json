@@ -12,14 +12,14 @@
     "name": "GRIZA",
     "img": "https://i.ibb.co/c3YKrh6/Captura-de-pantalla-2024-12-05-a-la-s-6-27-14-p-m.png",
     "description": "A small startup initiative focused on creating and selling custom websites for local businesses, built with React to ensure modern and responsive designs.",
-    "likes": 2,
+    "likes": 4,
     "link": "https://griza-corp.vercel.app/"
   },
   {
     "id": "recorre-teoti907823",
     "name": "Recorre Teotihuacán",
     "description": "A sleek template for a tourism website, built with React and enhanced with modern UI frameworks for a polished and user-friendly experience.",
-    "likes": 1,
+    "likes": 3,
     "img": "https://marcogrimaldo.github.io/portafolio/images/recorreTeotiReact.jpg",
     "link": "https://marcogrimaldo.github.io/recorre-teoti/#/"
   },
